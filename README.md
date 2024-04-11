@@ -1,8 +1,6 @@
 ## ❤️ Olá, seja bem-vindo(a) ao meu GitHub
 ![Capa LinkedIn](https://github.com/deboranortes/deboranortes/assets/150637689/e4efd670-2f3d-4d36-b2b8-6aea29c424f1)
 
-<img src="./capa.png" alt="Capa de apresentação">
-
 Você pode entrar em contato comigo por meio das minhas redes:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Débora%20Nortes-F2F2F2?style=flat-square&logo=Linkedin&logoColor=2B3448&link=https://www.linkedin.com/in/deboranortes/)](https://www.linkedin.com/in/deboranortes/)
