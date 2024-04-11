@@ -1,4 +1,5 @@
 ## ❤️ Olá, seja bem-vindo(a) ao meu GitHub
+![Capa LinkedIn](https://github.com/deboranortes/deboranortes/assets/150637689/e4efd670-2f3d-4d36-b2b8-6aea29c424f1)
 
 <img src="./capa.png" alt="Capa de apresentação">
 
