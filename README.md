@@ -1,4 +1,6 @@
-## ❤️ Olá, seja bem-vindo(a) ao meu GitHub
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ol%C3%A1%2C+seja+bem-vindo%28a%29+ao+meu+GitHub!&center=true&width=609&height=70&size=30&color=%23DB4277)](https://git.io/typing-svg)
+
+
 ![Capa LinkedIn](https://github.com/deboranortes/deboranortes/assets/150637689/e4efd670-2f3d-4d36-b2b8-6aea29c424f1)
 
 Você pode entrar em contato comigo por meio das minhas redes:
@@ -22,6 +24,14 @@ Alguns conhecimentos:
 
 Estou pronta para contribuir de forma significativa para projetos inovadores e equipes colaborativas.
 
+
+<h3>Estatísticas do GitHub</h3>
+
+<div>
+<a href="https://github.com/deboranortes">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboranortes&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=deboranortes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
