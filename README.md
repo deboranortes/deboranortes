@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ol%C3%A1%2C+seja+bem-vindo%28a%29+ao+meu+GitHub!&center=true&width=609&height=70&size=30&color=%23DB4277)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ol%C3%A1%2C+seja+bem-vindo%28a%29+ao+meu+GitHub!&center=true&width=618&height=70&size=28&color=%23DB4277)](https://git.io/typing-svg)
 
 
 ![Capa LinkedIn](https://github.com/deboranortes/deboranortes/assets/150637689/e4efd670-2f3d-4d36-b2b8-6aea29c424f1)
