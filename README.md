@@ -46,7 +46,9 @@ Estou pronta para contribuir de forma significativa para projetos inovadores e e
 <div>
 <a href="https://github.com/deboranortes">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboranortes&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=deboranortes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<br>
+<div align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=deboranortes&show_icons=true&theme=dracula' alt='git status'>
 </div>
 
 <picture>
