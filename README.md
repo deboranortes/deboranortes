@@ -38,10 +38,10 @@ Alguns conhecimentos:
 
 <h3>Estatísticas do GitHub</h3>
 
-<div>
+<div align='center'>
 <a href="https://github.com/deboranortes">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboranortes&layout=compact&langs_count=7&theme=dracula"/>
-<br>
+
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=deboranortes&show_icons=true&theme=dracula' alt='git status'>
 </div>
@@ -52,4 +52,4 @@ Alguns conhecimentos:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deboranortes/deboranortes/output/github-contribution-grid-snake.svg">
   
 </picture>
-<br><br>
+
