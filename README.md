@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Sou **Desenvolvedora Front-End** focada em criar soluções digitais funcionais e eficientes. Meu aprendizado é constante e abrange tecnologias como HTML, CSS, JavaScript, React, Vue.js e Git. Valorizo a atenção aos detalhes, a usabilidade e a experiência do usuário em cada projeto que desenvolvo.
+Sou **Desenvolvedora Front-End** focada em criar soluções digitais funcionais e eficientes. Meu aprendizado é constante e abrange tecnologias como HTML, CSS, Sass, JavaScript, React, Styled-components, Vue.js, Git, three.js. Valorizo a atenção aos detalhes, a usabilidade e a experiência do usuário em cada projeto que desenvolvo.
 
 Movida por entusiasmo e dedicação, busco constantemente criar soluções digitais que ofereçam valor real e proporcionem experiências únicas aos usuários.
 
