@@ -33,7 +33,7 @@ Alguns conhecimentos:
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
   <img width="8" />
-  <img src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png" height="25" alt="github logo"  />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" height="25" alt="github logo"  />
 </div>
 
 <h3>Estatísticas do GitHub</h3>
