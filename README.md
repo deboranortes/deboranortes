@@ -26,7 +26,7 @@ Você pode entrar em contato comigo por meio das minhas redes:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 25px;" alt="React" />
   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" style="height: 25px;" alt="Styled-components" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="height: 25px;" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" style="height: 25px;" alt="Three.js" />
+  <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" style="height: 25px;" alt="Three.js logo" />
 
   <!-- Back-End e Banco de Dados -->
   <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/php/php.svg" style="height: 25px;" alt="PHP logo" />
