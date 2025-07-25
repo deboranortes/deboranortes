@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Sou **Desenvolvedora Front-End** focada em criar soluções digitais funcionais e eficientes. Meu aprendizado é constante e abrange tecnologias como HTML, CSS, Sass, JavaScript, React, Styled-components, Vue.js, Git, three.js. Valorizo a atenção aos detalhes, a usabilidade e a experiência do usuário em cada projeto que desenvolvo.
+Sou **Desenvolvedora Front-End** focada em criar soluções digitais funcionais e eficientes. Meu aprendizado é constante e abrange tecnologias como HTML, CSS, Sass, JavaScript, React, Styled-components, Vue.js, PHP, MySQL, Git, three.js. Valorizo a atenção aos detalhes, a usabilidade e a experiência do usuário em cada projeto que desenvolvo, buscando aplicar meus conhecimentos tanto em Front-End quanto em Back-End.
 
 Movida por entusiasmo e dedicação, busco constantemente criar soluções digitais que ofereçam valor real e proporcionem experiências únicas aos usuários.
 
@@ -30,7 +30,6 @@ Você pode entrar em contato comigo por meio das minhas redes:
 
   <!-- Back-End e Banco de Dados -->
   <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/php/php.svg" style="height: 25px;" alt="PHP logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 25px;" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 25px;" alt="MySQL" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" style="height: 25px;" alt="SQL" />
 
