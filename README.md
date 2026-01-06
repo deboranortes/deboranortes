@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Ol%C3%A1%2C+seja+bem-vindo%28a%29+ao+meu+GitHub!&center=true&width=618&height=70&size=28&color=%23DB4277)](https://git.io/typing-svg)
 
 
-![Capa LinkedIn](https://github.com/deboranortes/deboranortes/blob/main/capa-linkedin.jpg)
+![Capa LinkedIn](https://github.com/deboranortes/deboranortes/blob/main/capa2.jpg)
 
 ## Sobre Mim
 
