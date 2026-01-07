@@ -5,9 +5,13 @@
 
 ## Sobre Mim
 
-Sou **Desenvolvedora Front-End** focada em criar soluções digitais funcionais e eficientes. Meu aprendizado é constante e abrange tecnologias como HTML, CSS, Sass, JavaScript, React, Styled-components, Vue.js, PHP, MySQL, Git, three.js. Valorizo a atenção aos detalhes, a usabilidade e a experiência do usuário em cada projeto que desenvolvo, buscando aplicar meus conhecimentos tanto em Front-End quanto em Back-End.
+Sou uma profissional em transição de carreira, com 16 anos de experiência em vendas em diversos setores. Essa trajetória me trouxe habilidades valiosas em comunicação, negociação, empatia e foco em resultados, competências que hoje aplico na área de tecnologia.
 
-Movida por entusiasmo e dedicação, busco constantemente criar soluções digitais que ofereçam valor real e proporcionem experiências únicas aos usuários.
+Atualmente, curso Engenharia de Software e estou me especializando em Segurança da Informação, área pela qual sou apaixonada e que considero estratégica para proteger pessoas e organizações contra ameaças digitais.
+
+Tenho conhecimentos sólidos em desenvolvimento front-end (HTML, CSS, SCSS, JavaScript, React, Vue, Node.js) e bancos de dados (SQL, MySQL, PostgreSQL).
+
+Meu propósito é integrar experiência comercial e formação em tecnologia para apoiar soluções de segurança da informação e proteção contra ameaças digitais.
 
 Você pode entrar em contato comigo por meio das minhas redes:
 
@@ -26,10 +30,8 @@ Você pode entrar em contato comigo por meio das minhas redes:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 25px;" alt="React" />
   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" style="height: 25px;" alt="Styled-components" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="height: 25px;" alt="Vue.js" />
-  <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" style="height: 25px;" alt="Three.js logo" />
 
   <!-- Back-End e Banco de Dados -->
-  <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/php/php.svg" style="height: 25px;" alt="PHP logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 25px;" alt="MySQL" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" style="height: 25px;" alt="SQL" />
 
