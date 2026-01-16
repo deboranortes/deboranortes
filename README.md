@@ -13,8 +13,6 @@ Tenho conhecimentos sólidos em desenvolvimento front-end (HTML, CSS, SCSS, Java
 
 Meu propósito é integrar experiência comercial e formação em tecnologia para apoiar soluções de segurança da informação e proteção contra ameaças digitais.
 
-Você pode entrar em contato comigo por meio das minhas redes:
-
 [![Linkedin Badge](https://img.shields.io/badge/-Débora%20Nortes-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deboranortes/)](https://www.linkedin.com/in/deboranortes/)
 [![Gmail Badge](https://img.shields.io/badge/-deborasouto2%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborasouto2@gmail.com)](mailto:deborasouto2@gmail.com)
 
