@@ -5,19 +5,22 @@
 
 ## Sobre Mim
 
-Sou uma profissional em transição de carreira, com 16 anos de experiência em vendas em diversos setores. Essa trajetória me trouxe habilidades valiosas em comunicação, negociação, empatia e foco em resultados, competências que hoje aplico na área de tecnologia.
+Estudante de Engenharia de Software em transição para a área de Segurança da Informação.
 
-Atualmente, curso Engenharia de Software e estou me especializando em Segurança da Informação, área pela qual sou apaixonada e que considero estratégica para proteger pessoas e organizações contra ameaças digitais.
+Atualmente estudando fundamentos de cibersegurança, incluindo análise de riscos, conceitos de controle de acesso e proteção de dados (LGPD).
 
-Tenho conhecimentos sólidos em desenvolvimento front-end (HTML, CSS, SCSS, JavaScript, React, Vue, Node.js) e bancos de dados (SQL, MySQL, PostgreSQL).
+Possuo base em desenvolvimento web (HTML, CSS, JavaScript, React, Vue) e bancos de dados (SQL).
 
-Meu propósito é integrar experiência comercial e formação em tecnologia para apoiar soluções de segurança da informação e proteção contra ameaças digitais.
+Tenho interesse em Gestão de Identidades e Acessos (IAM) e governança de segurança da informação.
+
+Em constante aprendizado e desenvolvimento na área de segurança.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Débora%20Nortes-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deboranortes/)](https://www.linkedin.com/in/deboranortes/)
 [![Gmail Badge](https://img.shields.io/badge/-deborasouto2%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deborasouto2@gmail.com)](mailto:deborasouto2@gmail.com)
 
-## 🚀 Minha Stack
+## 💻 Technical Background
 
+### Desenvolvimento (Base Técnica)
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center">
 
   <!-- Front-End -->
@@ -29,7 +32,7 @@ Meu propósito é integrar experiência comercial e formação em tecnologia par
   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" style="height: 25px;" alt="Styled-components" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="height: 25px;" alt="Vue.js" />
 
-  <!-- Back-End e Banco de Dados -->
+  ### 🗄️ Banco de Dados
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 25px;" alt="MySQL" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" style="height: 25px;" alt="SQL" />
 
@@ -38,16 +41,22 @@ Meu propósito é integrar experiência comercial e formação em tecnologia par
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" style="height: 25px;" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 25px;" alt="VS Code" />
 
+  ### 🔐 Segurança da Informação (Fundamentos)
+<p>
+  <img src="https://img.shields.io/badge/Security-Fundamentals-blue" />
+  <img src="https://img.shields.io/badge/Risk-Analysis-blue" />
+  <img src="https://img.shields.io/badge/Access-Control-blue" />
+  <img src="https://img.shields.io/badge/LGPD-Compliance-blue" />
+</p>
+
 </div>
 
 
 ## 📊 Estatísticas do GitHub
 
-<div style="display: flex; gap: 0px; justify-content: start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboranortes&layout=compact&langs_count=7&theme=dracula" style="height: 180px; width: 450px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=deboranortes&show_icons=true&theme=dracula" style="height: 180px; width: 450px;" />
-</div>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deboranortes&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deboranortes&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deboranortes&theme=dracula)
 
 
 
